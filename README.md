@@ -54,7 +54,7 @@ The dashboard helps identify patterns in employee attrition based on factors suc
 
 ## 👨‍💻 Author
 
-Lovish Jain
+
 
 **Lovish Jain**
 
